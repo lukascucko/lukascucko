@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lukascucko 
 - 👀 I’m interested in web design
-- 🌱 I’m currently learning html,php,java script,scss,css
+- 🌱 I’m currently learning html,php,java script,scss,css,php,web Security,ccna 
 - 💞️ I’m looking to collaborate on my projects
 - 📫 How to reach me with message.
 
